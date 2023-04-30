@@ -1,7 +1,7 @@
 # About Me:
 Hi 👋 I am Rohit.<br>I am a Frontend Developer skilled in ReactJS, NextJS , Flutter etc .<br>As a frontend developer, I keep trying my hand in building useful models and try to infuse them into web applications to develop<br>intelligent and performant UI components .
-</br>
-<img src="https://sircltech.com/assets/images/newgif/python.gif"  width="400"/>
+</br></br></br>
+<img src="https://sircltech.com/assets/images/newgif/python.gif"  width="300"/>
 </br>
 
 ## 🌐 Socials:
