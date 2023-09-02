@@ -1,7 +1,7 @@
 # About Me:
 Hi 👋 I am Rohit.
 
-<br>I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.</br>
+I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.
 
 At the moment,I am a Software Developer at GlueLabs <a>https://gluelabs.com/</a>
 
