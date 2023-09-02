@@ -1,8 +1,13 @@
 # About Me:
 Hi 👋 I am Rohit.
-<br>I am a Frontend Developer/Android Developer skilled in ReactJS, NextJS , Flutter etc.
-<br>I keep trying my hand in building useful models and try to infuse them into web applications to develop<br>intelligent and performant UI components .
-</br></br></br>
+
+<br>I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.</br>
+
+At the moment,I am a Software Developer at GlueLabs.
+
+How to reach me:
+<a>rohitdhiman937@gmail.com</a>
+
 <img src="https://sircltech.com/assets/images/newgif/python.gif"  width="300"/>
 </br>
 
