@@ -3,7 +3,7 @@ Hi 👋 I am Rohit.
 
 I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.
 
-At the moment, I am working at GlueLabs <a>https://gluelabs.com/</a>
+At the moment, I am working at GlueLabs Pvt Ltd <a>https://gluelabs.com/</a>
 
 How to reach me:
 <a>rohitdhiman937@gmail.com</a>
