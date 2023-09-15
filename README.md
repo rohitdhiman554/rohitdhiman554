@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Hi 👋 I am Rohit.
 
 I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.
