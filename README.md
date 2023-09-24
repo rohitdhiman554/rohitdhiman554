@@ -13,7 +13,7 @@ How to reach me:
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-dhiman-783a721b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" />
+<a href="https://www.linkedin.com/in/rohit-dhiman-783a721b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit dhiman" height="30" width="40" />
 <a href="https://www.instagram.com/rohitt_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
 </p>
