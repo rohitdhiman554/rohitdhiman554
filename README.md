@@ -6,7 +6,7 @@ I am a Frontend Developer skilled in Js, React Js, React Native, Next Js etc.
 At the moment, I am working at GlueLabs Pvt Ltd <a>https://gluelabs.com</a>
 
 How to reach me:
-<a>rohitdhiman937@gmail.com</a>
+<a>rohitdhiman937@gmail.com</a>|
 <a>rohitd@gluelabs.com</a>
 
 <img src="https://sircltech.com/assets/images/newgif/python.gif"  width="300"/>
