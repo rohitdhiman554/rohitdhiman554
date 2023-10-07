@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋 I am Rohitdsad
+Hi 👋 I am Rohitdsa
 
 I am a Frontend Developer skilled in Js, React Js, React Native, Next Js , Flutter etc.
 
