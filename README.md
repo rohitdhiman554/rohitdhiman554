@@ -3,7 +3,6 @@ Hi 👋 I am Rohit Dhiman
 
 I am a Frontend Developer skilled in Js, React Js, React Native, Next Js , Flutter etc.
 
-
 At the moment, I am working at GlueLabs Pvt Ltd <a>https://gluelabs.com</a>
 
 How to reach me:
