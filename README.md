@@ -10,7 +10,8 @@ How to reach me:
 <a>rohitd@gluelabs.com</a>
 
 <img src="https://sircltech.com/assets/images/newgif/python.gif"  width="300"/>
-</br>
+</br
+  
 
 
 ## 🌐 Socials:
