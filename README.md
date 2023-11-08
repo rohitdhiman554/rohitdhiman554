@@ -9,7 +9,6 @@ How to reach me:
 <a>rohitdhiman937@gmail.com</a> |
 <a>rohitd@gluelabs.com</a>
 
-
 <img src="https://sircltech.com/assets/images/newgif/python.gif"  width="300"/>
 </br
   
