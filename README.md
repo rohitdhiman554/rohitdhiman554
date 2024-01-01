@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋 I am Rohit Dhiman
+Hi 👋 I am Rohit Dhiman.
 
 I am a Frontend Developer skilled in Javasrcipt, React Js, React Native, Next Js, Flutter etc.
 
